@@ -5,8 +5,8 @@
 ##### Phone:093-835-1260
 
 ### สิ่งที่ต้องInstallก่อน
-#### ต้องลงpython3ก่อนนะครับ
-#### ลงlibraryชื่อxmltodict
+* ต้องลงpython3ก่อนนะครับ
+* ลงlibraryชื่อxmltodict
 ```
 pip3 install xmltodict
 ```
