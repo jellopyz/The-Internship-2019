@@ -4,6 +4,13 @@
 ##### E-mail:kalostn2099@hotmail.com
 ##### Phone:093-835-1260
 
+### สิ่งที่ต้องInstallก่อน
+#### ลงlibraryชื่อxmltodict
+```
+pip3 install xmltodict
+```
+<hr>
+### วิธีการrunโปรแกรม
 #### 1.ใช้คำสั่ง
 ```
 cdไปที่folder weather
