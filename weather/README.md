@@ -12,3 +12,7 @@ cdไปที่folder weather
 ```
 python3 weather.py
 ```
+#### 3.กรอกชื่อไฟล์เช่น weather.xml
+```
+<img src="">
+```
