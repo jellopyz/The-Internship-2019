@@ -1,10 +1,11 @@
-# 2 XML to JSON
+# 2 XML to JSON By Python
 
 ##### Name:Thanakorn Amnajsatit
 ##### E-mail:kalostn2099@hotmail.com
 ##### Phone:093-835-1260
 
 ### สิ่งที่ต้องInstallก่อน
+#### ต้องลงpython3ก่อนนะครับ
 #### ลงlibraryชื่อxmltodict
 ```
 pip3 install xmltodict
