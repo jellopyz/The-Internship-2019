@@ -25,4 +25,4 @@ python3 weather.py
 <img src="https://github.com/nailtail/The-Internship-2019/blob/master/img/xml2json.png"/>
 
 ### Reference
-http://tripsintech.com/xml-to-json-python-script-also-json-to-xml/
+ดูวิธีการแปลงxml-to-json http://tripsintech.com/xml-to-json-python-script-also-json-to-xml/
