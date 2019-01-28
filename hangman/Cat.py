@@ -1,3 +1,0 @@
-import hangman
-
-hangman.main
