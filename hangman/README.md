@@ -5,3 +5,8 @@
 ```
 python3 Hangman.py
 ```
+<img src="https://github.com/nailtail/The-Internship-2019/blob/master/img/hangman1.png" />
+<img src="https://github.com/nailtail/The-Internship-2019/blob/master/img/hangman2.png" />
+<img src="https://github.com/nailtail/The-Internship-2019/blob/master/img/hangman3.png" />
+<img src="https://github.com/nailtail/The-Internship-2019/blob/master/img/hangman4.png" />
+<img src="https://github.com/nailtail/The-Internship-2019/blob/master/img/hangman5.png" />
