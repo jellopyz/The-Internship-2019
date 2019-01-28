@@ -95,7 +95,7 @@ def showHint(choosed_category, indexOfword):
 
 def resultChecker(choosed_category, shown_text, indexOfword, guess_count,score):
     if '-' not in shown_text: #To go to the next word for guessing
-        if len(choosed_category['Words']) > 0:
+        if len(choosed_category['Words']) > 1:
             print("")
             print("You win!!! Next word.")
             choosed_category['Words'].pop(indexOfword)
@@ -103,6 +103,8 @@ def resultChecker(choosed_category, shown_text, indexOfword, guess_count,score):
             shown_text.clear()
         else:
             print("You win this category!!!")
+            choosed_category['Words'].pop(indexOfword)
+            choosed_category['Hint'].pop(indexOfword)
         return 'Win'
     elif guess_count < 1: #When you lose get out of loop
         print("You lose.")
