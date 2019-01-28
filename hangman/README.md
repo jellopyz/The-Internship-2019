@@ -1,4 +1,9 @@
 # Hangman game
+
+##### Name:Thanakorn Amnajsatit
+##### E-mail:kalostn2099@hotmail.com
+##### Phone:093-835-1260
+
 ### วิธีการRun
 ##### 1.cdไปที่folderที่มีไฟล์Hangman.py อยู่
 ##### 2.ใช้คำสั่ง
