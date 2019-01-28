@@ -17,3 +17,6 @@ python3 Hangman.py
 <img src="https://github.com/nailtail/The-Internship-2019/blob/master/img/hangman4.png"></img>
 ##### รูปที่5 หากเล่นแพ้จะมีการบอกว่าเล่นมาได้ถึงกี่คะแนนแล้วโปรแกรมจะจบลง
 <img src="https://github.com/nailtail/The-Internship-2019/blob/master/img/hangman5.png"></img>
+
+### อ้างอิง
+Regular Expression(re)ดูมาจาก: https://stackoverflow.com/questions/29014462/python-regular-expression-to-check-alphanumeric
